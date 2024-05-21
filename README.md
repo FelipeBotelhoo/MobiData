@@ -11,15 +11,6 @@ Este aplicativo oferece uma solução versátil e eficaz para suas necessidades 
 apresentando uma plataforma de fácil utilização.  
 
 
-<br> 
-
-## Índice *⃣
-- Pré-Requisitos
-- Instalação
-- Como Usar
-- Prévia
-- Ferramentas Utilizadas
-- Contato
 
 <br>
 
